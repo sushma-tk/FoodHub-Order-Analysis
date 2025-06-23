@@ -9,4 +9,5 @@
 * Identified top cuisines and restaurants
 * Suggested ways to enhance delivery and customer experience
  
-## Skills Used: Python, Pandas, Seaborn, Matplotlib, EDA, Data Cleaning, Visualization
+## Skills Used: 
+Python, Pandas, Seaborn, Matplotlib, EDA, Data Cleaning, Visualization
