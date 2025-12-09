@@ -38,8 +38,5 @@ The data includes various information related to a food order. A detailed data d
 * There is no strong correlation between order cost and restaurant ratings. High-rated restaurants exist across all price ranges, indicating that cost alone doesn’t guarantee a better rating.
 * The company generated $6,166.30 in revenue from commission charges, with higher-priced orders contributing more.
 
-## Technical Stack
-Programming: Python
-Libraries: Pandas (Data manipulation)
-Visualization: Matplotlib & Seaborn
-Concepts: Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization
+## Skills
+Python (Pandas(Data manipulation), Matplotlib & Seaborn(Data Visualization), Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization
