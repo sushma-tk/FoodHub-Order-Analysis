@@ -28,15 +28,15 @@ delivery_time: Time (in minutes) taken by the delivery person to deliver the foo
 * Suggested ways to enhance delivery and customer experience
 
 ## Conclusion
-A majority of orders (70%) are priced at or below $20, suggesting most customers prefer budget-friendly options.
-Only a small portion of customers order frequently, indicating that a large number of users may be one-time buyers.
-Many restaurants (50) have only received one order, suggesting that customer preferences are concentrated on a few popular restaurants.
-American cuisine is the most popular and also the most profitable, generating the highest revenue.
-Most orders are placed on weekends, suggesting peak usage aligns with customer free time.
-Average food preparation time is around 27 minutes, and delivery time is around 24 minutes, indicating relatively efficient service.
-A notable portion of ratings are marked as “Not given,” which may limit insights into customer satisfaction. Filling these gaps or encouraging more ratings could enhance future analysis.
-There is no strong correlation between order cost and restaurant ratings. High-rated restaurants exist across all price ranges, indicating that cost alone doesn’t guarantee a better rating.
-The company generated $6,166.30 in revenue from commission charges, with higher-priced orders contributing more.
+* A majority of orders (70%) are priced at or below $20, suggesting most customers prefer budget-friendly options.
+* Only a small portion of customers order frequently, indicating that a large number of users may be one-time buyers.
+* Many restaurants (50) have only received one order, suggesting that customer preferences are concentrated on a few popular restaurants.
+* American cuisine is the most popular and also the most profitable, generating the highest revenue.
+* Most orders are placed on weekends, suggesting peak usage aligns with customer free time.
+* Average food preparation time is around 27 minutes, and delivery time is around 24 minutes, indicating relatively efficient service.
+* A notable portion of ratings are marked as “Not given,” which may limit insights into customer satisfaction. Filling these gaps or encouraging more ratings could enhance future analysis.
+* There is no strong correlation between order cost and restaurant ratings. High-rated restaurants exist across all price ranges, indicating that cost alone doesn’t guarantee a better rating.
+* The company generated $6,166.30 in revenue from commission charges, with higher-priced orders contributing more.
 
 ## Technical Stack
 Programming: Python
