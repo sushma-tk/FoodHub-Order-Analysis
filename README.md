@@ -9,15 +9,15 @@ The app allows restaurants to receive a direct online order from a customer. The
 The data includes various information related to a food order. A detailed data dictionary is provided below.
 
 ## Data Dictionary
-order_id: Unique ID of the order
-customer_id: ID of the customer who ordered the food
-restaurant_name: Name of the restaurant
-cuisine_type: Cuisine ordered by the customer
-cost_of_the_order: Cost of the order
-day_of_the_week: Indicates whether the order is placed on a weekday or weekend (The weekday is from Monday to Friday and the weekend is Saturday and Sunday)
-rating: Rating given by the customer out of 5
-food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
-delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
+* order_id: Unique ID of the order
+* customer_id: ID of the customer who ordered the food
+* restaurant_name: Name of the restaurant
+* cuisine_type: Cuisine ordered by the customer
+* cost_of_the_order: Cost of the order
+* day_of_the_week: Indicates whether the order is placed on a weekday or weekend (The weekday is from Monday to Friday and the weekend is Saturday and Sunday)
+* rating: Rating given by the customer out of 5
+* food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
+* delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
 
 ## Key Highlights
 * Cleaned and explored food delivery records
